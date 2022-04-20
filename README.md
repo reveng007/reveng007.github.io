@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-# `$ whoami`
+# _`$ whoami`_
+
+<img style="padding-right: 50px;" align="left" src="assets/img/icon.jpeg">
 
 You can use the [editor on GitHub](https://github.com/reveng007/reveng007.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
