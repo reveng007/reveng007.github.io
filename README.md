@@ -4,6 +4,26 @@
 
 <img style="padding-right: 50px;" align="left" src="assets/img/icon.jpeg">
 
+**Name:** Soumyanil Biswas (aka reveng007)
+
+**Profession:** Wannabe RedTeamer
+
+**Location:** Seed
+
+---
+
+**Github:** <ins>[reveng007](https://github.com/reveng007)</ins>
+
+**Twitter:** <ins>[@reveng007](https://www.twitter.com/reveng007/)</ins>
+
+**Linkedin:** <ins>[linkedin](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
+
+<br clear="left"/>
+<br />
+<br />
+
+***Site is still Under Construction!!***
+
 You can use the [editor on GitHub](https://github.com/reveng007/reveng007.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
