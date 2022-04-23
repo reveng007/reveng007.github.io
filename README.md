@@ -1,7 +1,4 @@
----
-layout: default
-published: true
----
+
 
 <!-- ## Welcome to GitHub Pages -->
 
