@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+---
+layout: default
+published: true
+---
 
-# _`$ whoami`_
+<!-- ## Welcome to GitHub Pages -->
+
+## _`$ whoami`_
 
 <img style="padding-right: 50px;" align="left" src="assets/img/icon.jpeg">
 
