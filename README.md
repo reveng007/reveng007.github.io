@@ -12,6 +12,20 @@
 **Location:** Seed
 
 ---
+**Skills:**
+1. Penetration Testing
+2. SOC Analysis
+3. Malware Development
+4. Malware Analysis and Reverse Engineering
+5. Knowledge of Windows Internals
+6. C/C++/C#/python/bash/x86_64 Assembly
+
+<br clear="left"/>
+<br />
+<br />
+
+**About Me:**
+I am an Undergraduate BTech student. I'm learning new stuff day in and day out. I'm passionate about offensive security more than defensive. But, I do both. I like to analyse malwares, play CTFs (solved 100+ rooms in TryHackMe till now). Apart from these, I like to read blogs on malware developments, reverse engineering, Malware analysis, human psychology, listen rap, etc.
 
 **Github:** <ins>[reveng007](https://github.com/reveng007)</ins>
 
@@ -19,11 +33,15 @@
 
 **Linkedin:** <ins>[linkedin](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
 
-**TryHackMe:** <script src="https://tryhackme.com/badge/85058"></script
+**TryHackMe:** <script src="https://tryhackme.com/badge/85058"></script>
 
-<br clear="left"/>
-<br />
-<br />
+**Contacts:** 
+<a href="mailto:soumyanilbiswas2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
+## <a href="http://example.com/" target="_blank">My posts</a>
+
+
 
 ***Site is still Under Construction!!***
 
