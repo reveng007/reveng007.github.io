@@ -13,13 +13,14 @@
 
 ---
 **Skills:**
-1. Penetration Testing
-2. SOC Analysis
-3. Malware Development
-4. Malware Analysis and Reverse Engineering
-5. Knowledge of Windows Internals
-6. C/C++/C#/python/bash/x86_64 Assembly
-
+```
+  1. Penetration Testing
+  2. SOC Analysis
+  3. Malware Development
+  4. Malware Analysis and Reverse Engineering
+  5. Knowledge of Windows Internals
+  6. C/C++/C#/python/bash/x86_64 Assembly
+```
 <br clear="left"/>
 <br />
 <br />
