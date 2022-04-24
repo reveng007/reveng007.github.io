@@ -42,7 +42,7 @@
 I am an Undergraduate BTech student. I'm learning new stuff day in and day out. I'm passionate about offensive security more than defensive. But, I do both. I like to analyse malwares, play CTFs (solved 100+ rooms in TryHackMe till now). Apart from these, I like to read blogs on malware developments, reverse engineering, Malware analysis, human psychology, listen rap, etc.
 
 
-## <a href="https://reveng007.github.io/Blogs/" target="_blank">My posts</a>
+## <a href="https://reveng007.github.io/blog/" target="_blank">My posts</a>
 
 
 
