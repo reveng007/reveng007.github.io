@@ -19,6 +19,8 @@
 
 **Linkedin:** <ins>[linkedin](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
 
+**TryHackMe:** <script src="https://tryhackme.com/badge/85058"></script
+
 <br clear="left"/>
 <br />
 <br />
