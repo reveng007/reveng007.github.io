@@ -25,11 +25,11 @@
 <br />
 <br />
 
-## _`$ cat ~/CTF/TryHackMe_profile.txt:`_
+## _`$ cat ~/CTF/TryHackMe_profile.txt`_
 
 <script src="https://tryhackme.com/badge/85058"></script>
 
-## _`$ cat ~/Documents/Skills.txt:`_
+## _`$ cat ~/Documents/Skills.txt`_
 ```
   1. C/C++/C#/python/bash/x86_64 Assembly
   2. Penetration Testing
@@ -43,12 +43,14 @@
 
 
 
-## _`$ cat ~/Documents/About_Me.txt:`_
+## _`$ cat ~/Documents/About_Me.txt`_
 
 I am an Undergraduate BTech student. I'm learning new stuff day in and day out. I'm passionate about offensive security more than defensive. But, I do both. I like to analyse malwares, play CTFs (solved 100+ rooms in TryHackMe till now). Apart from these, I like to read blogs on malware developments, reverse engineering, Malware analysis, human psychology, listen rap, etc.
 
 
-## View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My posts</a></ins> !
+## _`$ cat /var/www/html/index.html`_
+
+View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My posts</a></ins> !
 
 
 
