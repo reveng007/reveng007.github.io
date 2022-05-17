@@ -25,7 +25,7 @@
 <!-- <br /> -->
 <!-- <br /> -->
 
-## _`$ cat ~/CTF/TryHackMe_profile.txt`_
+## _`$ xdg-open ~/CTF/TryHackMe_profile.gif`_
 
 <script src="https://tryhackme.com/badge/85058"></script>
 
