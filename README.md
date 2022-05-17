@@ -19,7 +19,8 @@
 
 **Linkedin:** <ins>[linkedin](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
 
-**Contacts:** &nbsp; <a href="mailto:soumyanilbiswas2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+**Contacts:** &nbsp;
+<a href="mailto:soumyanilbiswas2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="mailto:reveng007@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 
 <br clear="left"/>
 <br />
