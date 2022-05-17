@@ -17,9 +17,9 @@
 
 **Twitter:** <ins>[@reveng007](https://www.twitter.com/reveng007/)</ins>
 
-**Linkedin:** <ins>[linkedin](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
+**Linkedin:** <ins>[SoumyanilBiswas](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
 
-**Contacts:** <a href="mailto:soumyanilbiswas2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="mailto:reveng007@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+**Contacts:** <ins>[soumyanilbiswas2018@gmail.com](mailto:soumyanilbiswas2018@gmail.com)</ins>, <ins>[reveng007@protonmail.com](mailto:reveng007@protonmail.com)</ins>
 
 <br clear="left"/>
 <br />
