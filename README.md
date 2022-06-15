@@ -51,6 +51,13 @@
 I am an Undergraduate BTech student. I'm learning new stuff day in and day out. I'm passionate about offensive security more than defensive. But, I do both. I like to analyse malwares, play CTFs (solved 100+ rooms in TryHackMe till now). Apart from these, I like to read blogs on malware developments, reverse engineering, Malware analysis, human psychology, listen rap, etc.
 
 
+## _`$ cat /var/www/html/redirect/index.html`_
+
+View my blogs on other platforms:\
+1. <a href="https://hackhouse.net/?p=901" target="_blank">Kerberos Deep Dive</a>
+2. <a href="https://hackhouse.net/?p=901" target="_blank">HTB Knife</a>
+
+
 ## _`$ cat /var/www/html/index.html`_
 
 View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My posts</a></ins> !
