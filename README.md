@@ -60,7 +60,7 @@ View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My post
 
 View my blogs on other platforms:
 1. <a href="https://hackhouse.net/?p=901" target="_blank">Kerberos Deep Dive</a>
-2. <a href="https://hackhouse.net/?p=901" target="_blank">HTB Knife</a>
+2. <a href="https://hackhouse.net/?p=1025" target="_blank">HTB Knife</a>
 
 
 
