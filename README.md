@@ -63,6 +63,10 @@ View my blogs on other platforms:
 2. <a href="https://hackhouse.net/?p=1025" target="_blank">HTB Knife</a>
 
 
+## _`$ sudo openvpn ./zabsec.com.ovpn`_
+
+View this site too:
+1. <a href="https://zabsec.com" target="_blank">zabsec.com</a> hosted by my extremely hardworking and talented friend Zablon Shewangizaw.
 
 <!-- You can use the [editor on GitHub](https://github.com/reveng007/reveng007.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
