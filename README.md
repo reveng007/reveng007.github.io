@@ -61,6 +61,8 @@ View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My post
 View my blogs on other platforms:
 1. <a href="https://hackhouse.net/?p=901" target="_blank">Kerberos Deep Dive</a>
 2. <a href="https://hackhouse.net/?p=1025" target="_blank">HTB Knife</a>
+3. <a href="https://soumyani1.medium.com/thm-steel-mountain-mr-robot-themed-windows-machine-88ee446cbef7" target="_blank">THM Steel Mountain MrRobot</a>
+4. <a href="https://soumyani1.medium.com/thm-ninja-skills-writeup-ce333d3223f3" target="_blank">THM NinjaSkills</a>
 
 
 ## _`$ sudo openvpn ./zabsec.com.ovpn`_
