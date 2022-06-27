@@ -37,10 +37,10 @@
   1. C/C++/C#/python/bash/x86_64 Assembly
   2. Penetration Testing
   3. Malware Development
-  4. Malware Analysis and Reverse Engineering
-  5. Knowledge of Windows Internals
+  4. Knowledge of Windows Internals
 ```
 <!-- SOC Analysis
+     Malware Analysis and Reverse Engineering
      Threat Hunting 
      Threat Intelligence -->
 
