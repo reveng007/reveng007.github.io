@@ -63,6 +63,7 @@ View my blogs on other platforms:
 2. <a href="https://hackhouse.net/?p=1025" target="_blank">HTB Knife</a>
 3. <a href="https://soumyani1.medium.com/thm-steel-mountain-mr-robot-themed-windows-machine-88ee446cbef7" target="_blank">THM Steel Mountain MrRobot</a>
 4. <a href="https://soumyani1.medium.com/thm-ninja-skills-writeup-ce333d3223f3" target="_blank">THM NinjaSkills</a>
+5. <a href="https://github.com/reveng007/TryHackMe/blob/main/The%20Server%20From%20Hell/README.md" target="_blank">THM TheServerFromHell</a>
 
 
 ## _`$ sudo openvpn ./zabsec.com.ovpn`_
