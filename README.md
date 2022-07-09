@@ -39,7 +39,7 @@
   3. Malware Development
   4. Knowledge of Windows Internals
 ```
-## _`$ cat ~/Documents/Skills_yet_to_know_based_on_interest.txt`_
+## _`$ cat ~/Documents/Skills_yet_to_know_based_on_my_interest.txt`_
 ```
 SOC Analysis
 Malware Analysis and Reverse Engineering
