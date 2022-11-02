@@ -7,8 +7,7 @@
 
 **Name:** Soumyanil Biswas (aka reveng007)
 
-**Profession:** Wannabe RedTeamer 
-(Currently: Security Research Intern [@FireCompass](https://www.firecompass.com/))
+**Profession:** Wannabe RedTeamer/ MalwareDev
 
 **Location:** Seed
 
