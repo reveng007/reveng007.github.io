@@ -3,7 +3,7 @@
 
 ## _`$ whoami`_
 
-<img style="padding-right: 50px;" align="left" src="reveng_rtkit/icon.jpeg">
+<img style="padding-right: 50px;" align="left" src="reveng_rtkit/bat.jpg">
 
 **Name:** Soumyanil Biswas (aka reveng007)
 
