@@ -21,7 +21,7 @@
 
 **Linkedin:** <ins>[SoumyanilBiswas](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
 
-**Contacts:** <ins>soumyanilbiswas2018@gmail.com</ins>
+**Contacts:** <ins>soumyanilbiswas2018@gmail</ins>
 
 <!-- <ins>[reveng007[at]protonmail.com](mailto:reveng007@protonmail.com)</ins> -->
 
