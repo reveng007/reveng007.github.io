@@ -7,7 +7,7 @@
 
 **Name:** Soumyanil Biswas (aka reveng007)
 
-**Profession:** Wannabe RedTeamer/ MalwareDev
+**Profession:** Wannabe RedTeamer/ MalwareDev | [@BlackHatEvents](https://twitter.com/BlackHatEvents) Asia Arsenal 2024 Presenter | [@BSidesSG](https://twitter.com/BSidesSG) 2023 Speaker
 
 **Location:** Seed
 
@@ -39,6 +39,7 @@
   2. Penetration Testing
   3. Malware Development
   4. Knowledge of Windows Internals
+  5. AWS Pentesting
 ```
 ## _`$ cat ~/Documents/Skills_yet_to_know_based_on_my_interest.txt`_
 ```
