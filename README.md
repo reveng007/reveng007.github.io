@@ -3,11 +3,16 @@
 
 ## _`$ whoami`_
 
-<img style="padding-right: 50px;" align="left" src="reveng_rtkit/bat.jpg">
+<!-- <img style="padding-right: 50px;" align="left" src="reveng_rtkit/bat.jpg"> -->
+
+<div style="text-align: center;">
+    <img style="padding-right: 50px;" src="reveng_rtkit/bat.jpg" alt="Bat Image">
+</div>
+
 
 **Name:** Soumyanil Biswas (aka reveng007)
 
-**Profession:** Wannabe RedTeamer/ MalwareDev | [@BlackHatEvents](https://twitter.com/BlackHatEvents) Asia Arsenal 2024 Presenter | [@BSidesSG](https://twitter.com/BSidesSG) 2023 Speaker
+**Profession:** Wannabe RedTeamer/ MalwareDev, [@BlackHatEvents](https://twitter.com/BlackHatEvents) Asia Arsenal 2024 Presenter, [@BSidesSG](https://twitter.com/BSidesSG) 2023 Speaker
 
 **Location:** Seed
 
