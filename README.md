@@ -58,7 +58,7 @@ Threat Intelligence
 
 - Hi, I'm Soumyanil (aka reveng007).
 - Currently into Security Research. Though I have an electronics background, I have an immense interest in information security.
-- Former Speaker BSides Singapore 2023 | [Black Hat Asia 2024](https://www.blackhat.com/asia-24/arsenal/schedule/index.html#darkwidow-dropperpostexploitation-tool-or-can-be-used-in-both-situations-targeting-windows-36835) Presenter.
+- Former Speaker BSides Singapore 2023, [Black Hat Asia 2024](https://www.blackhat.com/asia-24/arsenal/schedule/index.html#darkwidow-dropperpostexploitation-tool-or-can-be-used-in-both-situations-targeting-windows-36835) Presenter.
 - I'm learning new stuff day in and day out. I'm passionate about offensive security more than defensive.
 - I have played CTFs, solved 100+ rooms in TryHackMe till now. I have CRTP.
 - Now a day, I am spending most of the time building scripts/open source malware dev evasion based projects, digging deep into windows system internals, building scripts on On-prem and Cloud-based (like, AWS) Attack Vectors.
