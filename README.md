@@ -28,17 +28,25 @@
 
 ---
 
+<a href="https://www.linkedin.com/in/soumyanil-biswas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/reveng007" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:soumyanilbiswas2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<!--
 ## Github:
 
 <ins>[reveng007](https://github.com/reveng007)</ins>
 
-## Twitter:
+## Twitter: -->
 <!-- <ins>[@reveng007](https://www.twitter.com/reveng007/)</ins> -->
+<!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/reveng007?style=social)](https://twitter.com/reveng007)
 
 ## Linkedin:
 
 <ins>[SoumyanilBiswas](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
+
+-->
 
 <!-- <ins>[reveng007[at]protonmail.com](mailto:reveng007@protonmail.com)</ins> -->
 
