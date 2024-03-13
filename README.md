@@ -9,10 +9,6 @@
     <img style="padding-right: 50px;" src="reveng_rtkit/bat.jpg" alt="Bat Image">
 </div>
 
-
-## Name:
-**Soumyanil Biswas (aka reveng007)**
-
 ## About Me: 
 - Hi, I'm Soumyanil (aka reveng007).
 - Currently into Security Research. Though I have an electronics background, I have an immense interest in information security.
