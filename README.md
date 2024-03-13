@@ -21,10 +21,10 @@
 **West Bengal, India**
 
 ## Courses/ Certifications:
-- [Pentester Academy : CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f)
-- [AttackIQ : Foundations of Operationalizing MITRE ATT&CK v13](https://www.credly.com/badges/35a3a463-7117-42ed-9dc2-bc26a7cc83ec)
-- [Sektor7 : RED TEAM Operator: Windows Evasion Course](https://drive.google.com/file/d/1LyrCWgZEmEVpPpLQiQFMZ9zt1_pm210f/view)
-- [Antisyphon Training : SOC Core Skills | John Strand](https://drive.google.com/file/d/1Y7subNgM_mdaLcwJYwK8xV6MyzmLqUYZ/view)
+- [Pentester Academy CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f)
+- [AttackIQ Foundations of Operationalizing MITRE ATT&CK v13](https://www.credly.com/badges/35a3a463-7117-42ed-9dc2-bc26a7cc83ec)
+- [Sektor7 RED TEAM Operator: Windows Evasion Course](https://drive.google.com/file/d/1LyrCWgZEmEVpPpLQiQFMZ9zt1_pm210f/view)
+- [Antisyphon Training SOC Core Skills](https://drive.google.com/file/d/1Y7subNgM_mdaLcwJYwK8xV6MyzmLqUYZ/view)
 
 ---
 
