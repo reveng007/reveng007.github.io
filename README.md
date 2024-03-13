@@ -1,8 +1,6 @@
 
 <!-- ## Welcome to GitHub Pages -->
 
-## _`$ whoami`_
-
 <!-- <img style="padding-right: 50px;" align="left" src="reveng_rtkit/bat.jpg"> -->
 
 <div style="text-align: center;">
