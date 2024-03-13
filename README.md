@@ -52,11 +52,13 @@
 <!-- <br /> -->
 <!-- <br /> -->
 
+<!--
 ## _`$ xdg-open ~/CTF/TryHackMe_profile.gif`_
 
 <script src="https://tryhackme.com/badge/85058"></script>
 &nbsp;
 
+-->
 
 ## _`$ cat ~/Documents/Skills.txt`_
 ```
