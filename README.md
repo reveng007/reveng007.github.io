@@ -10,21 +10,39 @@
 </div>
 
 
-**Name:** Soumyanil Biswas (aka reveng007)
+## Name:
+**Soumyanil Biswas (aka reveng007)**
 
-**Profession:** Wannabe RedTeamer/ MalwareDev, [@BlackHatEvents](https://twitter.com/BlackHatEvents) Asia Arsenal 2024 Presenter, [@BSidesSG](https://twitter.com/BSidesSG) 2023 Speaker
+## About Me: 
+- Hi, I'm Soumyanil (aka reveng007).
+- Currently into Security Research. Though I have an electronics background, I have an immense interest in information security.
+- Former Speaker BSides Singapore 2023, [Black Hat Asia 2024](https://www.blackhat.com/asia-24/arsenal/schedule/index.html#darkwidow-dropperpostexploitation-tool-or-can-be-used-in-both-situations-targeting-windows-36835) Presenter.
+- I'm learning new stuff day in and day out. I'm passionate about offensive security more than defensive.
+- I have played CTFs, solved 100+ rooms in TryHackMe till now. I have CRTP.
+- Now a day, I am spending most of the time building scripts/open source malware dev evasion based projects, digging deep into windows system internals, building scripts on On-prem and Cloud-based (like, AWS) Attack Vectors.
 
-**Location:** Seed
+## Location:
+**West Bengal, India**
 
-**Certification:** [CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f)
+## Courses/ Certifications:
+- [Pentester Academy : CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f)
+- [AttackIQ : Foundations of Operationalizing MITRE ATT&CK v13](https://www.credly.com/badges/35a3a463-7117-42ed-9dc2-bc26a7cc83ec)
+- [Sektor7 : RED TEAM Operator: Windows Evasion Course](https://drive.google.com/file/d/1LyrCWgZEmEVpPpLQiQFMZ9zt1_pm210f/view)
+- [Antisyphon Training : SOC Core Skills | John Strand](https://drive.google.com/file/d/1Y7subNgM_mdaLcwJYwK8xV6MyzmLqUYZ/view)
 
 ---
 
-**Github:** <ins>[reveng007](https://github.com/reveng007)</ins>
+## Github:
 
-**Twitter:** <ins>[@reveng007](https://www.twitter.com/reveng007/)</ins>
+<ins>[reveng007](https://github.com/reveng007)</ins>
 
-**Linkedin:** <ins>[SoumyanilBiswas](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
+## Twitter:
+<!-- <ins>[@reveng007](https://www.twitter.com/reveng007/)</ins> -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/reveng007?style=social)](https://twitter.com/reveng007)
+
+## Linkedin:
+
+<ins>[SoumyanilBiswas](https://www.linkedin.com/in/soumyanil-biswas/)</ins>
 
 <!-- <ins>[reveng007[at]protonmail.com](mailto:reveng007@protonmail.com)</ins> -->
 
@@ -54,15 +72,6 @@ Threat Hunting
 Threat Intelligence
 ```
 
-## _`$ cat ~/Documents/About_Me.txt`_
-
-- Hi, I'm Soumyanil (aka reveng007).
-- Currently into Security Research. Though I have an electronics background, I have an immense interest in information security.
-- Former Speaker BSides Singapore 2023, [Black Hat Asia 2024](https://www.blackhat.com/asia-24/arsenal/schedule/index.html#darkwidow-dropperpostexploitation-tool-or-can-be-used-in-both-situations-targeting-windows-36835) Presenter.
-- I'm learning new stuff day in and day out. I'm passionate about offensive security more than defensive.
-- I have played CTFs, solved 100+ rooms in TryHackMe till now. I have CRTP.
-- Now a day, I am spending most of the time building scripts/open source malware dev evasion based projects, digging deep into windows system internals, building scripts on On-prem and Cloud-based (like, AWS) Attack Vectors.
-
 ## _`$ cat /var/www/html/index.html`_
 
 View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My posts</a></ins> !
@@ -80,8 +89,11 @@ View my blogs on other platforms:
 
 ## _`$ sudo openvpn ./zabsec.com.ovpn`_
 
+<!--
 View this site too:
 1. <a href="https://zabsec.com" target="_blank">zabsec.com</a> hosted by my extremely hardworking and talented friend Zablon Shewangizaw.
+
+-->
 
 <!-- You can use the [editor on GitHub](https://github.com/reveng007/reveng007.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
