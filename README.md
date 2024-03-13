@@ -63,8 +63,8 @@
 ## _`$ cat ~/Documents/Skills.txt`_
 ```
   1. C/C++/C#/python/bash/x86_64 Assembly
-  2. Penetration Testing
-  3. Malware Development
+  2. Red Teaming
+  3. Automation and Malware Development
   4. Knowledge of Windows Internals
   5. AWS Attack Vector Simulation
 ```
