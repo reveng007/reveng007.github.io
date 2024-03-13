@@ -78,8 +78,10 @@ Threat Intelligence
 
 ## _`$ cat /var/www/html/index.html`_
 
-View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My posts</a></ins> !
+View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My list of posts</a></ins> !
 
+- <ins><a href="https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html" target="_blank">How did I approach making linux LKM rootkit, “reveng_rtkit” ?</a></ins>
+- <ins><a href="https://reveng007.github.io/blog/2024/01/29/CloudGat-AWS-Scenario-2-vulnerable_cognito-(Small-or-Moderate).html" target="_blank">CloudGoat Scenario 2: vulnerable_cognito (Small / Moderate): WalkThrough and Mitigation</a></ins>
 
 ## _`$ cat /var/www/html/redirect/index.html`_
 
