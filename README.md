@@ -26,6 +26,9 @@
 
 ---
 
+[![GitHub followers](https://img.shields.io/github/followers/reveng007.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/reveng007?tab=followers) \
+[![reveng007's github stats](https://github-readme-stats.vercel.app/api?username=reveng007&theme=blue-green)](https://github.com/reveng007/github-readme-stats)
+
 <a href="https://www.linkedin.com/in/soumyanil-biswas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/reveng007" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="mailto:soumyanilbiswas2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
