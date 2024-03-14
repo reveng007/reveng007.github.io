@@ -49,17 +49,10 @@
 
 -->
 
-<!-- <ins>[reveng007[at]protonmail.com](mailto:reveng007@protonmail.com)</ins> -->
-
 <br clear="left"/>
 <!-- <br /> -->
 <!-- <br /> -->
 
-<!--
-## _`$ xdg-open ~/CTF/TryHackMe_profile.gif`_
-<script src="https://tryhackme.com/badge/85058"></script>
-&nbsp;
--->
 ## _`$ cat ~/Documents/Skills.txt`_
 ```
   1. C/C++/C#/python/bash/x86_64 Assembly
