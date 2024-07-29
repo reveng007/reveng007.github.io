@@ -10,7 +10,7 @@
 ## About Me: 
 - Hi, I'm Soumyanil (aka reveng007).
 - Currently into Security Research. Though I have an electronics background, I am into information security.
-- Former [Black Hat Asia 2024](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [Black Hat USA 2024](https://www.blackhat.com/us-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163) Arsenal Presenter, Former Speaker BSides Singapore 2023.
+- Former [Black Hat Asia 2024](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [Black Hat USA 2024](https://www.blackhat.com/us-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163) Arsenal Presenter, Former Speaker BSides Singapore 2023 and Upcoming Presenter at Wild West Hackin' Fest (WWHF) 2024.
 - Also got invitation as a speaker from BSides St. Pete (Florida) 2023, BSides Prishtina (Kosovo) 2023/2024, BSides Boise (Idaho) 2024, Hackmiami Conference XI 2024 and ConfidenceConf 2024, Krakow, Poland.
 - I'm learning new stuff day in and day out. I'm passionate about offensive security more than defensive.
 - I have played CTFs, solved 100+ rooms in TryHackMe till now. I have CRTP.
