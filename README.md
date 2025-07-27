@@ -85,14 +85,14 @@ Developed stealthy ransomware and evasive malware strains for internal red team 
 <!-- <br /> -->
 <!-- <br /> -->
 
-## _`$ cat /var/www/html/index.html`_
+### _`$ cat /var/www/html/index.html`_
 
 View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My list of posts</a></ins> !
 
-- <ins><a href="https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html" target="_blank">How did I approach making linux LKM rootkit, “reveng_rtkit” ?</a></ins>
-- <ins><a href="https://reveng007.github.io/blog/2024/01/29/CloudGat-AWS-Scenario-2-vulnerable_cognito-(Small-or-Moderate).html" target="_blank">CloudGoat Scenario 2: vulnerable_cognito (Small / Moderate): WalkThrough and Mitigation</a></ins>
+- <a href="https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html" target="_blank">How did I approach making linux LKM rootkit, “reveng_rtkit” ?</a>
+- <a href="https://reveng007.github.io/blog/2024/01/29/CloudGat-AWS-Scenario-2-vulnerable_cognito-(Small-or-Moderate).html" target="_blank">CloudGoat Scenario 2: vulnerable_cognito (Small / Moderate): WalkThrough and Mitigation</a>
 
-## _`$ cat /var/www/html/redirect/index.html`_
+### _`$ cat /var/www/html/redirect/index.html`_
 
 View my blogs on other platforms:
 1. <a href="https://web.archive.org/web/20210925182952/https://hackhouse.net/kerberos-deep-dive/" target="_blank">Kerberos Deep Dive</a> (original website is sold, so had to add backup)
@@ -100,15 +100,6 @@ View my blogs on other platforms:
 3. <a href="https://soumyani1.medium.com/thm-steel-mountain-mr-robot-themed-windows-machine-88ee446cbef7" target="_blank">THM Steel Mountain MrRobot</a>
 4. <a href="https://soumyani1.medium.com/thm-ninja-skills-writeup-ce333d3223f3" target="_blank">THM NinjaSkills</a>
 5. <a href="https://github.com/reveng007/TryHackMe/blob/main/The%20Server%20From%20Hell/README.md" target="_blank">THM TheServerFromHell</a>
-
-<!--
-
-## _`$ sudo openvpn ./zabsec.com.ovpn`_
-
-View this site too:
-1. <a href="https://zabsec.com" target="_blank">zabsec.com</a> hosted by my extremely hardworking and talented friend Zablon Shewangizaw.
-
--->
 
 <!-- You can use the [editor on GitHub](https://github.com/reveng007/reveng007.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
