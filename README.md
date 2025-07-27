@@ -41,9 +41,6 @@ Built adversary simulation tooling for FireCompass’ automation platform.
 8. **Malware & Ransomware Tooling**: \
 Developed stealthy ransomware and evasive malware strains for internal red team assessments.
 
-## Location:
-**West Bengal, India**
-
 ## Courses/ Certifications:
 - [HackTheBox - Detecting Windows Attacks with Splunk (ongoing)](https://academy.hackthebox.com/course/preview/detecting-windows-attacks-with-splunk)
 - [Maldev Academy - Malware Development Modules (ongoing)](https://maldevacademy.com/syllabus)
