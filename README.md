@@ -85,22 +85,6 @@ Developed stealthy ransomware and evasive malware strains for internal red team 
 <!-- <br /> -->
 <!-- <br /> -->
 
-## _`$ cat ~/Documents/Skills.txt`_
-```
-  1. C/C++/C#/python/bash/x86_64 Assembly
-  2. Red Teaming
-  3. Automation and Malware Development
-  4. Knowledge of Windows Internals
-  5. AWS Attack Vector Simulation
-```
-## _`$ cat ~/Documents/Skills_yet_to_know_based_on_my_interest.txt`_
-```
-SOC Analysis
-Malware Analysis and Reverse Engineering
-Threat Hunting 
-Threat Intelligence
-```
-
 ## _`$ cat /var/www/html/index.html`_
 
 View my <ins><a href="https://reveng007.github.io/blog/" target="_blank">My list of posts</a></ins> !
