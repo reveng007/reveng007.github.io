@@ -9,9 +9,37 @@
 
 ## About Me: 
 - Hi, this is Soumyanil (aka reveng007).
-- Currently into Security Research. Though he has an electronics background, he is into information security.
+- He has hands-on offensive security professional with a strong focus on endpoint security evasion, cloud attack automation, and red teaming.
+- His work involves building offensive pipelines, performing stealthy assessments, and uncovering deep product blind spots across EDRs, AVs, privileged access management solutions and other Security products.
 - Former [Black Hat Asia](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [USA](https://www.blackhat.com/us-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [SecTor](https://www.blackhat.com/sector/2024/arsenal/schedule/presenters.html#soumyanil-biswas-47163) & [Europe](https://www.blackhat.com/eu-24/arsenal/schedule/index.html#darkwidow-customizable-dropper-tool-targeting-windows-41187) 2024, [Wild West Hacking Fest](https://wildwesthackinfest.com/agenda-for-wwhf-2024-deadwood/) 2024 Arsenal Presenter and Former Speaker BSides Singapore 2023.
 - Nowadays, he spends most of his time building scripts/open source malware dev evasion-based projects, digging deep into Windows system internals, and building automation scripts on On-prem and Cloud-based (like, AWS) Attack Vectors.
+
+## What I do:
+
+1. Break and bypass endpoint defenses like Microsoft Defender for Endpoint, CrowdStrike, Cortex XDR, Sophos, Deep Instinct and BeyondTrust.
+2. Simulate adversary behavior using offensive CI/CD pipelines to generate obfuscated payloads (.NET).
+3. Perform deep assessments in enterprise environments using live SharePoint exploitation via KQL hunting, and AD abuse (evading Microsoft Defender for Identity).
+4. Build malware and mini-ransomware strains to test real-world detection and prevention systems.
+5. Automate adversary emulation in cloud platforms like AWS for continuous attack simulations.
+
+## Projects I have worked on:
+
+1. **SharePoint Keyword Hunting**: \
+Queried live enterprise SharePoint sites using Microsoft Graph API + KQL (Keyword Query Language) to identify exposed sensitive data.
+2. **WPAD Assessment**: \
+Investigated WinHttpAutoProxySvc attack surface under disabled WPAD configs.
+3. **MDE Exclusion Bypass**: \
+Evaluated Microsoft Defender Exclusion visibility and abuse even under "HideExclusionsFromLocalAdmins" policy.
+4. **Privilege Access Management Product Abuse**: \
+Discovered multiple UAC bypasses in Beyond Trust PAM solution while operating under restricted (low-flex) environments.
+5. **Windows 11 Endpoint Evaluation**: \
+Performed holistic endpoint security review including Zscaler, DLP, MDE, and Beyond Trust.
+6. **Assessment of MDI via AD Attacks**: \
+Ran 400+ test cases on Microsoft Defender for Identity involving ADCS, Kerberoasting, ACL abuse, and more.
+7. **Cloud Attack Automation (AWS)**: \
+Built adversary simulation tooling for FireCompass’ automation platform.
+8. **Malware & Ransomware Tooling**: \
+Developed stealthy ransomware and evasive malware strains for internal red team assessments.
 
 ## Location:
 **West Bengal, India**
