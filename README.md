@@ -17,7 +17,11 @@
 **West Bengal, India**
 
 ## Courses/ Certifications:
-- [Pentester Academy CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f)
+- [HackTheBox - Detecting Windows Attacks with Splunk (ongoing)](https://academy.hackthebox.com/course/preview/detecting-windows-attacks-with-splunk)
+- [Maldev Academy - Malware Development Modules (ongoing)](https://maldevacademy.com/syllabus)
+- [DeepLearning.ai - Red Teaming LLM Applications](https://learn.deeplearning.ai/accomplishments/4ecfdaa0-31b8-4180-859b-b639d49bf05c?usp=sharing)
+- [ZeroPoint Security - Certified Red Team Operator/ CRTO](https://eu.badgr.com/public/assertions/pM_ivRXJQ0iuVwdpFVRCdg?identity__email=soumyanilbiswas2018@gmail.com)
+- [Pentester Academy - Certified Red Team Professional/ CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f)
 - [AttackIQ Foundations of Operationalizing MITRE ATT&CK v13](https://www.credly.com/badges/35a3a463-7117-42ed-9dc2-bc26a7cc83ec)
 - [Sektor7 RED TEAM Operator: Windows Evasion Course](https://drive.google.com/file/d/1LyrCWgZEmEVpPpLQiQFMZ9zt1_pm210f/view)
 - [Antisyphon Training SOC Core Skills](https://drive.google.com/file/d/1Y7subNgM_mdaLcwJYwK8xV6MyzmLqUYZ/view)
