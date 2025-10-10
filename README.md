@@ -55,6 +55,24 @@ Developed stealthy ransomware and evasive malware strains for internal red team 
 
 ---
 
+### _`$ cat /var/www/html/index.html`_
+
+View my <a href="https://reveng007.github.io/blog/" target="_blank">My list of posts</a> !
+
+- <a href="https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html" target="_blank">How did I approach making linux LKM rootkit, “reveng_rtkit” ?</a>
+- <a href="https://reveng007.github.io/blog/2024/01/29/CloudGat-AWS-Scenario-2-vulnerable_cognito-(Small-or-Moderate).html" target="_blank">CloudGoat Scenario 2: vulnerable_cognito (Small / Moderate): WalkThrough and Mitigation</a>
+
+### _`$ cat /var/www/html/redirect/index.html`_
+
+View my blogs on other platforms:
+1. <a href="https://github.com/reveng007/Cloud-CTFs/tree/main/Wiz-cloudhuntinggames-ExifCola" target="_blank">ExfilCola Cloud Hunting CTF by Wiz</a> 
+2. <a href="https://web.archive.org/web/20210925182952/https://hackhouse.net/kerberos-deep-dive/" target="_blank">Kerberos Deep Dive</a> (original website is sold, so had to add backup)
+3. <a href="https://web.archive.org/web/20211025155302/https://hackhouse.net/knife/" target="_blank">HTB Knife</a> (original website is sold, so had to add backup)
+4. <a href="https://soumyani1.medium.com/thm-steel-mountain-mr-robot-themed-windows-machine-88ee446cbef7" target="_blank">THM Steel Mountain MrRobot</a>
+5. <a href="https://soumyani1.medium.com/thm-ninja-skills-writeup-ce333d3223f3" target="_blank">THM NinjaSkills</a>
+6. <a href="https://github.com/reveng007/TryHackMe/blob/main/The%20Server%20From%20Hell/README.md" target="_blank">THM TheServerFromHell</a>
+
+
 [![GitHub followers](https://img.shields.io/github/followers/reveng007.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/reveng007?tab=followers) \
 [![reveng007's github stats](https://github-readme-stats.vercel.app/api?username=reveng007&theme=blue-green)](https://github.com/reveng007/github-readme-stats)
 
@@ -83,22 +101,6 @@ Developed stealthy ransomware and evasive malware strains for internal red team 
 <br clear="left"/>
 <!-- <br /> -->
 <!-- <br /> -->
-
-### _`$ cat /var/www/html/index.html`_
-
-View my <a href="https://reveng007.github.io/blog/" target="_blank">My list of posts</a> !
-
-- <a href="https://reveng007.github.io/blog/2022/03/08/reveng_rkit_detailed.html" target="_blank">How did I approach making linux LKM rootkit, “reveng_rtkit” ?</a>
-- <a href="https://reveng007.github.io/blog/2024/01/29/CloudGat-AWS-Scenario-2-vulnerable_cognito-(Small-or-Moderate).html" target="_blank">CloudGoat Scenario 2: vulnerable_cognito (Small / Moderate): WalkThrough and Mitigation</a>
-
-### _`$ cat /var/www/html/redirect/index.html`_
-
-View my blogs on other platforms:
-1. <a href="https://web.archive.org/web/20210925182952/https://hackhouse.net/kerberos-deep-dive/" target="_blank">Kerberos Deep Dive</a> (original website is sold, so had to add backup)
-2. <a href="https://web.archive.org/web/20211025155302/https://hackhouse.net/knife/" target="_blank">HTB Knife</a> (original website is sold, so had to add backup)
-3. <a href="https://soumyani1.medium.com/thm-steel-mountain-mr-robot-themed-windows-machine-88ee446cbef7" target="_blank">THM Steel Mountain MrRobot</a>
-4. <a href="https://soumyani1.medium.com/thm-ninja-skills-writeup-ce333d3223f3" target="_blank">THM NinjaSkills</a>
-5. <a href="https://github.com/reveng007/TryHackMe/blob/main/The%20Server%20From%20Hell/README.md" target="_blank">THM TheServerFromHell</a>
 
 <!-- You can use the [editor on GitHub](https://github.com/reveng007/reveng007.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
