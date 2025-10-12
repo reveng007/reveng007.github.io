@@ -66,7 +66,7 @@ View my <a href="https://reveng007.github.io/blog/" target="_blank">My list of p
 
 View my blogs on other platforms:
 1. <a href="https://github.com/reveng007/Cloud-CTFs/tree/main/Wz-BigIAM-CTF" target="_blank">Big IAM AWS CTF by Wiz</a> 
-2. <a href="https://github.com/reveng007/Cloud-CTFs/tree/main/Wiz-cloudhuntinggames-ExifCola" target="_blank">ExfilCola Cloud Hunting CTF by Wiz</a> 
+2. <a href="https://github.com/reveng007/Cloud-CTFs/tree/main/Wiz-cloudhuntinggames-ExifCola" target="_blank">ExfilCola AWS Cloud Hunting CTF by Wiz</a> 
 3. <a href="https://web.archive.org/web/20210925182952/https://hackhouse.net/kerberos-deep-dive/" target="_blank">Kerberos Deep Dive</a> (original website is sold, so had to add backup)
 4. <a href="https://web.archive.org/web/20211025155302/https://hackhouse.net/knife/" target="_blank">HTB Knife</a> (original website is sold, so had to add backup)
 5. <a href="https://soumyani1.medium.com/thm-steel-mountain-mr-robot-themed-windows-machine-88ee446cbef7" target="_blank">THM Steel Mountain MrRobot</a>
