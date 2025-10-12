@@ -24,7 +24,7 @@
 
 ## Projects I have worked on:
 
-1. **Detection Engineering via Event logs (high level), Kernel Callback and ETWTi based ELAM drivers (low level)**: \
+1. **Detection Engineering via Event logs (high level), Kernel Callback and ETWTi based ELAM drivers (low level)** (On going projects): \
 Built Kernel drivers POCs and ETWTi based ELAM (Early Launch AntiMalware) drivers to detect process injection techniques like, thread hijacking, EarlyBird APC Injections, LSASS memory access (also for Silent process exit and Duplicate handle technique), PPID Spoofing and Process Hollowing, Ghosting, Herpaderping, LLMNR poisoning, Ransomware detection workflow, Named pipe based privilege escalation and lateral movement.
 2. **SharePoint Sensitive Keyword Hunting**: \
 Queried live enterprise SharePoint sites using Microsoft Graph API + KQL (Keyword Query Language) to identify exposed sensitive data.
@@ -42,8 +42,6 @@ Ran 400+ test cases on Microsoft Defender for Identity involving ADCS, Kerberoas
 Built adversary simulation tooling for FireCompass’ automation platform.
 9. **Malware & Ransomware Tooling**: \
 Developed stealthy ransomware and evasive malware strains for internal red team assessments.
-10. **Kernel drivers POCs and ETWTi based ELAM (Early Launch AntiMalware) drivers** (Projects are still Ongoing) : \
-Built Kernel drivers POCs and ETWTi based ELAM (Early Launch AntiMalware) drivers to detect process injection techniques like thread hijacking, EarlyBird APC Injections, LSASS memory access (also for Silent process exit and Duplicate handle technique), PPID Spoofing and Process Hollowing, Ghosting, Herpaderping, LLMNR poisoning, Ransomware detection workflow, Named pipe based privilege escalation, and lateral movement.
 
 ## Courses/ Certifications:
 - [TryHackMe - Attacking and Defending AWS](https://tryhackme.com/certificate/THM-FAQAASBXX0)
