@@ -16,7 +16,7 @@
 ## What I do:
 
 1. Break and bypass endpoint defenses like Microsoft Defender for Endpoint, CrowdStrike, Cortex XDR, Sophos, Deep Instinct and BeyondTrust.
-2. Performing Purple Teaming and Adversary Emulation on-prem and Cloud Environments like AWS, Azure AD and Azure Hybrid AD.
+2. Performing Purple Teaming and Adversary Emulation on on-prem and Cloud Environments like AWS, Azure AD and Azure Hybrid AD.
 3. Building detections of high quality attack techinques used by APT which normally goes under the radar of EDR products and Threat Hunters.
 4. Simulate adversary behavior using offensive CI/CD pipelines to generate obfuscated payloads (.NET).
 5. Perform deep assessments in enterprise environments using live SharePoint exploitation via KQL hunting, and AD abuse (evading Microsoft Defender for Identity).
