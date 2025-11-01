@@ -49,7 +49,7 @@ Developed stealthy ransomware and evasive malware strains for internal red team 
 ## Courses/ Certifications:
 - [TryHackMe - Attacking and Defending AWS](https://tryhackme.com/certificate/THM-FAQAASBXX0)
 - [HackTheBox - Detecting Windows Attacks with Splunk (ongoing)](https://academy.hackthebox.com/course/preview/detecting-windows-attacks-with-splunk)
-- [Maldev Academy - Malware Development Modules (ongoing)](https://maldevacademy.com/syllabus)
+- [Maldev Academy - Malware Development Modules](https://drive.google.com/file/d/197oCOJqQojcgcJnX2MOb5WQWNTyyJYNc/view)
 - [DeepLearning.ai - Red Teaming LLM Applications](https://learn.deeplearning.ai/accomplishments/4ecfdaa0-31b8-4180-859b-b639d49bf05c?usp=sharing)
 - [ZeroPoint Security - Certified Red Team Operator/ CRTO](https://eu.badgr.com/public/assertions/pM_ivRXJQ0iuVwdpFVRCdg?identity__email=soumyanilbiswas2018@gmail.com)
 - [Pentester Academy - Certified Red Team Professional/ CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f)
