@@ -69,16 +69,18 @@ View my <a href="https://reveng007.github.io/blog/" target="_blank">My list of p
 ### _`$ cat /var/www/html/redirect/index.html`_
 
 View my blogs on other platforms:
-1. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-1-02af20874625" target="_blank">My Journey to Learning SOC Blog Series</a> 
-2. <a href="https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab" target="_blank">AWS Attack Simulation and Detection Lab</a> 
-3. <a href="https://github.com/reveng007/Cloud-CTFs/blob/main/Wiz%20-%20The%20Ultimate%20Cloud%20Security%20ChampionShip/1.%20Perimeter%20Leak.md" target="_blank">The Ultimate Cloud Security Championship - Perimeter Leak (June 2025) by Wiz</a> 
-4. <a href="https://github.com/reveng007/Cloud-CTFs/tree/main/Wz-BigIAM-CTF" target="_blank">Big IAM AWS CTF by Wiz</a> 
-5. <a href="https://github.com/reveng007/Cloud-CTFs/tree/main/Wiz-cloudhuntinggames-ExifCola" target="_blank">ExfilCola AWS Cloud Hunting CTF by Wiz</a> 
-6. <a href="https://web.archive.org/web/20210925182952/https://hackhouse.net/kerberos-deep-dive/" target="_blank">Kerberos Deep Dive</a> (original website is sold, so had to add backup)
-7. <a href="https://web.archive.org/web/20211025155302/https://hackhouse.net/knife/" target="_blank">HTB Knife</a> (original website is sold, so had to add backup)
-8. <a href="https://soumyani1.medium.com/thm-steel-mountain-mr-robot-themed-windows-machine-88ee446cbef7" target="_blank">THM Steel Mountain MrRobot</a>
-9. <a href="https://soumyani1.medium.com/thm-ninja-skills-writeup-ce333d3223f3" target="_blank">THM NinjaSkills</a>
-10. <a href="https://github.com/reveng007/TryHackMe/blob/main/The%20Server%20From%20Hell/README.md" target="_blank">THM TheServerFromHell</a>
+1. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-1-02af20874625" target="_blank">My Journey to Learning SOC Blog Series 3 - Detection AWS related attacks and events via Splunk - (Part 1/5)</a>
+2. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-2-9dd5a40cc08d" target="_blank">My Journey to Learning SOC Blog Series 2 - Honing my KQL based detection Engineering</a>
+3. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-1-02af20874625" target="_blank">My Journey to Learning SOC Blog Series 1 - Windows Endpoint Malware Infection detection via Splunk</a> 
+4. <a href="https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab" target="_blank">AWS Attack Simulation and Detection Lab</a> 
+5. <a href="https://github.com/reveng007/Cloud-CTFs/blob/main/Wiz%20-%20The%20Ultimate%20Cloud%20Security%20ChampionShip/1.%20Perimeter%20Leak.md" target="_blank">The Ultimate Cloud Security Championship - Perimeter Leak (June 2025) by Wiz</a> 
+6. <a href="https://github.com/reveng007/Cloud-CTFs/tree/main/Wz-BigIAM-CTF" target="_blank">Big IAM AWS CTF by Wiz</a> 
+7. <a href="https://github.com/reveng007/Cloud-CTFs/tree/main/Wiz-cloudhuntinggames-ExifCola" target="_blank">ExfilCola AWS Cloud Hunting CTF by Wiz</a> 
+8. <a href="https://web.archive.org/web/20210925182952/https://hackhouse.net/kerberos-deep-dive/" target="_blank">Kerberos Deep Dive</a> (original website is sold, so had to add backup)
+9. <a href="https://web.archive.org/web/20211025155302/https://hackhouse.net/knife/" target="_blank">HTB Knife</a> (original website is sold, so had to add backup)
+10. <a href="https://soumyani1.medium.com/thm-steel-mountain-mr-robot-themed-windows-machine-88ee446cbef7" target="_blank">THM Steel Mountain MrRobot</a>
+11. <a href="https://soumyani1.medium.com/thm-ninja-skills-writeup-ce333d3223f3" target="_blank">THM NinjaSkills</a>
+12. <a href="https://github.com/reveng007/TryHackMe/blob/main/The%20Server%20From%20Hell/README.md" target="_blank">THM TheServerFromHell</a>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/reveng007.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/reveng007?tab=followers) \
