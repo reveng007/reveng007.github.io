@@ -69,7 +69,7 @@ View my <a href="https://reveng007.github.io/blog/" target="_blank">My list of p
 ### _`$ cat /var/www/html/redirect/index.html`_
 
 View my blogs on other platforms:
-1. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-1-02af20874625" target="_blank">My Journey to Learning SOC Blog Series 3 - Detection AWS related attacks and events via Splunk - (Part 1/5)</a>
+1. <a href="https://aws.plainenglish.io/my-journey-to-learning-soc-part-3-af5039fcf971" target="_blank">My Journey to Learning SOC Blog Series 3 - Detection AWS related attacks and events via Splunk - (Part 1/5)</a>
 2. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-2-9dd5a40cc08d" target="_blank">My Journey to Learning SOC Blog Series 2 - Honing my KQL based detection Engineering</a>
 3. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-1-02af20874625" target="_blank">My Journey to Learning SOC Blog Series 1 - Windows Endpoint Malware Infection detection via Splunk</a> 
 4. <a href="https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab" target="_blank">AWS Attack Simulation and Detection Lab</a> 
