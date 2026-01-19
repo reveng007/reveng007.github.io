@@ -47,6 +47,10 @@ Built adversary simulation tooling for FireCompass’ automation platform.
 Developed stealthy ransomware and evasive malware strains for internal red team assessments.
 
 ## Courses/ Certifications:
+- [Linkedin Learning - Threat Detection](https://drive.google.com/file/d/1qtASkG-7to0DMratbJI_fI1BuscDtL8Y/view)
+- [O'Reilly - Wireshark for SecOps](https://www.credly.com/badges/b611cf36-7e31-489b-8944-02087d642968/public_url)
+- [Pluralsight - Threat Hunting: Network Hunting](https://app.pluralsight.com/achievements/share/4e93100e-a4d6-4789-a5e7-d6ac1698c56a)
+- [KC7Fundation - KQL : Advanced Persistent Analyst](https://kc7cyber.com/certificate/earned/36989)
 - [TryHackMe - Attacking and Defending AWS](https://tryhackme.com/certificate/THM-FAQAASBXX0)
 - [HackTheBox - Detecting Windows Attacks with Splunk (ongoing)](https://academy.hackthebox.com/course/preview/detecting-windows-attacks-with-splunk)
 - [Maldev Academy - Malware Development Modules](https://drive.google.com/file/d/197oCOJqQojcgcJnX2MOb5WQWNTyyJYNc/view)
@@ -69,9 +73,9 @@ View my <a href="https://reveng007.github.io/blog/" target="_blank">My list of p
 ### _`$ cat /var/www/html/redirect/index.html`_
 
 View my blogs on other platforms:
-1. <a href="https://aws.plainenglish.io/my-journey-to-learning-soc-part-3-af5039fcf971" target="_blank">My Journey to Learning SOC Blog Series 3 - Detection AWS related attacks and events via Splunk - (Part 1/5)</a>
-2. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-2-9dd5a40cc08d" target="_blank">My Journey to Learning SOC Blog Series 2 - Honing my KQL based detection Engineering</a>
-3. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-1-02af20874625" target="_blank">My Journey to Learning SOC Blog Series 1 - Windows Endpoint Malware Infection detection via Splunk</a> 
+1. <a href="https://aws.plainenglish.io/my-journey-to-learning-soc-part-3-af5039fcf971" target="_blank">My Journey to Learning ThreatHunting: Part 3 - Detection AWS related attacks and events via Splunk - (Part 1/5)</a>
+2. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-2-9dd5a40cc08d" target="_blank">My Journey to Learning ThreatHunting: Part 2 - Honing my KQL based detection Engineering</a>
+3. <a href="https://soumyani1.medium.com/my-journey-to-learning-soc-part-1-02af20874625" target="_blank">My Journey to Learning ThreatHunting: Part 1 - Windows Endpoint Malware Infection detection via Splunk</a> 
 4. <a href="https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab" target="_blank">AWS Attack Simulation and Detection Lab</a> 
 5. <a href="https://github.com/reveng007/Cloud-CTFs/blob/main/Wiz%20-%20The%20Ultimate%20Cloud%20Security%20ChampionShip/1.%20Perimeter%20Leak.md" target="_blank">The Ultimate Cloud Security Championship - Perimeter Leak (June 2025) by Wiz</a> 
 6. <a href="https://github.com/reveng007/Cloud-CTFs/tree/main/Wz-BigIAM-CTF" target="_blank">Big IAM AWS CTF by Wiz</a> 
