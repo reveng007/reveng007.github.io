@@ -18,7 +18,7 @@
 1. Perform Red/purple Team assessments on Client environments.
 2. Perform Network PT and Thick Client Testing assessments.
 3. Perform Threat detections/hunting on Cloud and On-prem environments to help detection engineers in authoring detections for identified bypasses, reducing blind spots across MITRE ATT&CK techniques.
-4. Developing and developing custom detections based on analysis of incidents and relevant adversary TTPs via "Detection as Code".
+4. Developing and deploying custom detections based on analysis of incidents and relevant adversary TTPs via "Detection as Code".
 5. Different EDRs, MDI and other Security Product evaluation.
 6. Created Offensive CI/CD Pipelines and automated hunting for sensitive keywords in O365 environments.
 7. Covert Custom C2 creation and Exfiltration related BOF development for BRC4 and Cobalt Strike.
