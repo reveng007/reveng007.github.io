@@ -15,13 +15,13 @@
 
 ## What I do:
 
-1. Break and bypass endpoint defenses like Microsoft Defender for Endpoint, CrowdStrike, Cortex XDR, Sophos, Deep Instinct and BeyondTrust.
-2. Performing Purple Teaming and Adversary Emulation on on-prem and Cloud Environments like AWS, Azure AD and Azure Hybrid AD.
-3. Building detections of high quality attack techinques used by APT which normally goes under the radar of EDR products and Threat Hunters.
-4. Simulate adversary behavior using offensive CI/CD pipelines to generate obfuscated payloads (.NET).
-5. Perform deep assessments in enterprise environments using live SharePoint exploitation via KQL hunting, and AD abuse (evading Microsoft Defender for Identity).
-6. Have built malwares and ransomware to test real-world environments for upgrdation of detection and prevention strategies.
-7. Automate adversary emulation in cloud platforms like AWS for continuous attack simulations.
+1. Perform Red/purple Team assessments on Client environments.
+2. Perform Network PT and Thick Client Testing assessments.
+3. Perform Threat detections/hunting on Cloud and On-prem environments to help detection engineers in authoring detections for identified bypasses, reducing blind spots across MITRE ATT&CK techniques.
+4. Developing and developing custom detections based on analysis of incidents and relevant adversary TTPs via "Detection as Code".
+5. Different EDRs, MDI and other Security Product evaluation.
+6. Created Offensive CI/CD Pipelines and automated hunting for sensitive keywords in O365 environments.
+7. Covert Custom C2 creation and Exfiltration related BOF development for BRC4 and Cobalt Strike.
 
 ## Projects I have worked on:
 
