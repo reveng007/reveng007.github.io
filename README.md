@@ -9,7 +9,9 @@
 
 ## About Me: 
 - Hi, this is Soumyanil (aka reveng007).
-- Red mind. Blue mission. | Turning attack tradecraft into detections across Cloud & AD | Purple Teaming · Threat Hunting | Black Hat Speaker | CRTO | CRTP
+- Red mind. Blue mission.
+- Turning attack tradecraft into detections across Cloud & AD via Purple Teaming/adversary Simulation followed by Threat Hunting.
+- CRTP | CRTO
 - Former Black Hat Asia, USA, SecTor & Europe 2024, Wild West Hacking Fest 2024 Arsenal Presenter and Former Speaker BSides Singapore 2023.
 
 ## What I do:
