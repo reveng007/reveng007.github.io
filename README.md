@@ -51,7 +51,7 @@ Developed stealthy ransomware and evasive malware strains for internal red team 
 - [Pluralsight - Threat Hunting: Network Hunting](https://app.pluralsight.com/achievements/share/4e93100e-a4d6-4789-a5e7-d6ac1698c56a)
 - [KC7Fundation - KQL : Advanced Persistent Analyst](https://kc7cyber.com/certificate/earned/36989)
 - [TryHackMe - Attacking and Defending AWS](https://tryhackme.com/certificate/THM-FAQAASBXX0)
-- [HackTheBox - Detecting Windows Attacks with Splunk (ongoing)](https://academy.hackthebox.com/course/preview/detecting-windows-attacks-with-splunk)
+- [HackTheBox - Detecting Windows Attacks with Splunk](https://academy.hackthebox.com/course/preview/detecting-windows-attacks-with-splunk)
 - [Maldev Academy - Malware Development Modules](https://drive.google.com/file/d/197oCOJqQojcgcJnX2MOb5WQWNTyyJYNc/view)
 - [DeepLearning.ai - Red Teaming LLM Applications](https://learn.deeplearning.ai/accomplishments/4ecfdaa0-31b8-4180-859b-b639d49bf05c?usp=sharing)
 - [ZeroPoint Security - Certified Red Team Operator/ CRTO](https://eu.badgr.com/public/assertions/pM_ivRXJQ0iuVwdpFVRCdg?identity__email=soumyanilbiswas2018@gmail.com)
