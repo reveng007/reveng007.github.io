@@ -48,6 +48,7 @@ Developed stealthy ransomware and evasive malware strains for internal red team 
 
 
 ## Courses/ Certifications:
+- [HackTheBox - Shinra Pro Lab](https://drive.google.com/file/d/1W8UdRNpnEtBo-ZigF7gy0nti3hKvbCxg/view)
 - [Linkedin Learning - Threat Detection](https://drive.google.com/file/d/1qtASkG-7to0DMratbJI_fI1BuscDtL8Y/view)
 - [O'Reilly - Wireshark for SecOps](https://www.credly.com/badges/b611cf36-7e31-489b-8944-02087d642968/public_url)
 - [Pluralsight - Threat Hunting: Network Hunting](https://app.pluralsight.com/achievements/share/4e93100e-a4d6-4789-a5e7-d6ac1698c56a)
