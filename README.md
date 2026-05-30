@@ -21,12 +21,12 @@
 3. Developing and deploying custom detections based on analysis of incidents and relevant adversary TTPs via "Detection as Code".
 4. Different EDRs, MDI and other Security Product evaluation.
 5. Created Offensive CI/CD Pipelines and automated hunting for sensitive keywords in O365 environments.
-6. Perform Network PT and Thick Client Testing assessments.
+6. Perform Network/Infra PT and Thick Client Testing assessments along with WebApp.
 7. Covert Custom C2 creation and Exfiltration related BOF development for BRC4 and Cobalt Strike.
 
 ## Projects I have worked on High Level:
 
-1. **Purple Team Engagements** — \
+1. **Red/Purple Team Engagements** — \
 Adversary Simulation to Detection Validation
 Ran 400+ AD attack test cases (ADCS abuse, Kerberoasting, ACL abuse, and more) against MDI's ML-based detections — achieving an 89% alert hit rate and converting previously undetected techniques into validated alerts. Closed 10+ critical detection gaps and expanded SOC detection portfolio by 30% by bridging offensive findings directly into detection logic.
 
