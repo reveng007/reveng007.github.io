@@ -74,6 +74,7 @@ View my <a href="https://reveng007.github.io/blog/" target="_blank">My list of p
 ### _`$ cat /var/www/html/redirect/index.html`_
 
 View my blogs on other platforms:
+1. <a href="https://reveng007.notion.site/PortSwigger-Web-LLM-attacks-Labs-Walkthrough-36d49554351d8064bb6cf8f53998d6f1?pvs=74" target="_blank">PortSwigger Web LLM attacks Labs Walkthrough</a>
 1. <a href="https://soumyani1.medium.com/aws-threat-detection-series-mitre-att-ck-style-execution-part-2-78f3293f44d6" target="_blank">AWS Threat Detection Series — MITRE ATT&CK Style — Execution (Part 2)</a>
 2. <a href="https://soumyani1.medium.com/aws-threat-detection-with-stratus-redteam-series-mitre-att-ck-style-execution-part-1-53a434e152c4" target="_blank">AWS Threat Detection Series — MITRE ATT&CK Style — Execution (Part 1)</a>
 3. <a href="https://soumyani1.medium.com/aws-threat-detection-with-stratus-redteam-series-mitre-att-ck-style-initial-access-f1b769878603" target="_blank">AWS Threat Detection Series — MITRE ATT&CK Style — Initial Access</a>
