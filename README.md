@@ -11,8 +11,12 @@
 - Hi, this is Soumyanil (aka reveng007).
 - Red mind. Blue mission.
 - Turning attack tradecraft into detections across Cloud & AD via Purple Teaming/adversary Simulation followed by Threat Hunting.
-- CRTP and CRTO
 - Former Black Hat Asia, USA, SecTor & Europe 2024, Wild West Hacking Fest 2024 Arsenal Presenter and Former Speaker BSides Singapore 2023.
+- Certifications :
+  - [Altered Security Azure Red Team Expert - CARTE](https://www.credential.net/fa0c4e0d-d35a-4e42-bfe1-c4b6a0ac4543#acc.0jXcftNb)
+  - [Certified Red Team Operator - CRTO](https://badges.parchment.eu/public/assertions/pM_ivRXJQ0iuVwdpFVRCdg?identity__email=soumyanilbiswas2018@gmail.com)
+  - [HackTheBox - Shinra ProLab](https://drive.google.com/file/d/1W8UdRNpnEtBo-ZigF7gy0nti3hKvbCxg/view)
+  - [Certified Red Team Professional - CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f#acc.sYie9x0f)
 
 ## What I do:
 
@@ -48,6 +52,7 @@ Developed stealthy ransomware and evasive malware strains for internal red team 
 
 
 ## Courses/ Certifications:
+- [Altered Security Azure Red Team Expert - CARTE](https://www.credential.net/fa0c4e0d-d35a-4e42-bfe1-c4b6a0ac4543#acc.0jXcftNb)
 - [HackTheBox - Shinra Pro Lab](https://drive.google.com/file/d/1W8UdRNpnEtBo-ZigF7gy0nti3hKvbCxg/view)
 - [Linkedin Learning - Threat Detection](https://drive.google.com/file/d/1qtASkG-7to0DMratbJI_fI1BuscDtL8Y/view)
 - [O'Reilly - Wireshark for SecOps](https://www.credly.com/badges/b611cf36-7e31-489b-8944-02087d642968/public_url)
