@@ -9,7 +9,6 @@
 
 ## About Me: 
 - Hi, this is Soumyanil (aka reveng007).
-- Red mind. Blue mission.
 - Turning attack tradecraft into detections across Cloud & AD via Purple Teaming/adversary Simulation followed by Threat Hunting.
 - Former Black Hat Asia, USA, SecTor & Europe 2024, Wild West Hacking Fest 2024 Arsenal Presenter and Former Speaker BSides Singapore 2023.
 - Certifications :
@@ -18,15 +17,15 @@
   - [HackTheBox - Shinra ProLab](https://drive.google.com/file/d/1W8UdRNpnEtBo-ZigF7gy0nti3hKvbCxg/view)
   - [Certified Red Team Professional - CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f#acc.sYie9x0f)
 
-## What I do:
+## What I Do
 
-1. Perform Red/purple Team assessments on Client environments.
-2. Perform Threat detections/hunting on Cloud and On-prem environments to help detection engineers in authoring detections for identified bypasses, reducing blind spots across MITRE ATT&CK techniques.
-3. Developing and deploying custom detections based on analysis of incidents and relevant adversary TTPs via "Detection as Code".
-4. Different EDRs, MDI and other Security Product evaluation.
-5. Created Offensive CI/CD Pipelines and automated hunting for sensitive keywords in O365 environments.
-6. Perform Network/Infra PT and Thick Client Testing assessments along with WebApp.
-7. Covert Custom C2 creation and Exfiltration related BOF development for BRC4 and Cobalt Strike.
+1. Conduct purple team assessments across client environments, validating detection coverage and identifying blind spots mapped to MITRE ATT&CK techniques.
+2. Perform threat hunting across cloud and on-prem environments, collaborating with detection engineers to author detections for identified bypasses and reduce coverage gaps across SIEM/EDR platforms.
+3. Develop and deploy custom detections based on incident analysis and adversary TTP research via a **Detection-as-Code** pipeline.
+4. Evaluate EDRs, Microsoft Defender for Identity (MDI), and other security products for detection efficacy, benchmarking against real-world adversary tradecraft.
+5. Build automated sensitive keyword hunting across O365 environments and offensive CI/CD pipelines to continuously validate detection and DLP controls.
+6. Perform network/infrastructure penetration testing, thick client, and web application assessments to surface detection gaps and inform defensive hardening priorities.
+7. Develop custom covert C2 frameworks and exfiltration-focused BOFs (BRC4, Cobalt Strike) to stress-test network detection signatures, EDR telemetry, and data loss prevention controls.
 
 ## Projects I have worked on High Level:
 
